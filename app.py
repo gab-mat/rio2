@@ -1,3 +1,5 @@
+import rio
+
 @rio.page(
     name="Dashboard",
     url_segment="",
